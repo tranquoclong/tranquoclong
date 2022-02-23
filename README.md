@@ -63,7 +63,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="#" target="blank">
-    <img width="90" height="90" src="images/RobotX-Color.svg" alt="tranquoclong" />
+    <img width="150" height="150" src="images/RobotX-Color.svg" alt="tranquoclong" />
   </a>
   <a href="https://facebook.com/nhatlong13" target="blank">
     <img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-facebook-social-media-justicon-flat-justicon.png" alt="tranquoclong-facebook"/>
