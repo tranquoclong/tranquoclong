@@ -78,7 +78,7 @@
     <img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-instagram-social-media-justicon-flat-justicon.png" alt="tranquoclong-instagram"/>
   </a>
   <a href="mailto:tranquoclong1310.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/fluent/50/000000/gmail.png" alt="tranquoclong-email"/>
+    <img src="https://img.icons8.com/fluent/100/000000/gmail.png" alt="tranquoclong-email"/>
 
   </a>
 </div>
