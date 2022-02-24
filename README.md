@@ -75,7 +75,7 @@
     <img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-linkedin-social-media-justicon-flat-justicon.png" alt="tranquoclong-linkedin"/>
   </a>
   <a href="https://instagram.com/red13.10" target="blank">
-    <img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-instagram-social-media-justicon-flat-justicon.png" alt="tranquoclong-instagram"/>
+    <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-instagram-social-media-justicon-flat-justicon.png" alt="tranquoclong-instagram"/>
   </a>
   <a href="mailto:tranquoclong1310.official@gmail.com" target="top">
 <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" alt="tranquoclong-email"/>
