@@ -69,7 +69,7 @@
     <img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-facebook-social-media-justicon-flat-justicon.png" alt="tranquoclong-facebook"/>
   </a>
   <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube.png" alt="tranquoclong-youtube" />
+    <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-youtube-social-media-justicon-flat-justicon.png" alt="tranquoclong-youtube" />
   </a>
   <a href="#" target="blank">
     <img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-linkedin-social-media-justicon-flat-justicon.png" alt="tranquoclong-linkedin"/>
@@ -78,7 +78,6 @@
     <img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-instagram-social-media-justicon-flat-justicon.png" alt="tranquoclong-instagram"/>
   </a>
   <a href="mailto:tranquoclong1310.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/fluent/50/000000/gmail.png" alt="tranquoclong-email"/>
-
+<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" alt="tranquoclong-email"/>
   </a>
 </div>
