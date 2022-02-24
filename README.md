@@ -68,8 +68,8 @@
   <a href="https://facebook.com/nhatlong13" target="blank">
     <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-facebook-social-media-justicon-flat-justicon.png" alt="tranquoclong-facebook"/>
   </a>
-  <a href="#" target="blank">
-    <img padding="100" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-youtube-social-media-justicon-flat-justicon.png" alt="tranquoclong-youtube" />
+  <a href="#" padding="100" target="blank">
+    <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-youtube-social-media-justicon-flat-justicon.png" alt="tranquoclong-youtube" />
   </a>
   <a href="#" target="blank">
     <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" alt="tranquoclong-linkedin"/>
