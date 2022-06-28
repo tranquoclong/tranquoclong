@@ -1,5 +1,6 @@
-<h2 align="center">🛠 Technologies and Tools 🛠 <iframe src="https://giphy.com/embed/1xkeMihWhjFWAOjw4r" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-network-emea-gumball-me-encanta-ojos-chirivitas-1xkeMihWhjFWAOjw4r">via GIPHY</a></p></h2>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
+<iframe src="https://giphy.com/embed/1xkeMihWhjFWAOjw4r" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-network-emea-gumball-me-encanta-ojos-chirivitas-1xkeMihWhjFWAOjw4r">via GIPHY</a></p>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
