@@ -1,7 +1,7 @@
+<h2 align="center">🚀 A Passionate Developer From Việt Nam 🚀<img src="./images/giphy.gif" alt="logo" height="150" /></h2>
+<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
-<img src="./images/giphy.gif" alt="logo" height="150" />
-<!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
@@ -34,7 +34,6 @@
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="tranquoclong">
