@@ -1,9 +1,5 @@
- <div style="display: flex;
-    justify-content: center;
-    align-items: center;">
-        <h2 align="center">🚀 A Passionate Developer From Việt Nam 🚀</h2>
-        <img src="./images/giphy.gif" alt="logo" height="100" />
-    </div>
+ <h1 align="center">🚀 A Passionate Developer From Việt Nam 🚀 <img src="./images/giphy.gif" alt="logo"
+            height="100" /></h1>
 <br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
