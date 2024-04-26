@@ -30,7 +30,7 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 -->
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
   <a href="#" title="tranquoclong">
@@ -39,18 +39,17 @@
   <a href="#" title="tranquoclong">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tranquoclong&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-</div>
+</div> -->
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
+<!-- <br> -->
 <!-- https://icons8.com -->
-<div align="center">
+<!-- <div align="center"> -->
 <!--   <a href="#" target="blank">
     <img width="150" height="150" src="images/RobotX-Color.svg" alt="tranquoclong" />
   </a> -->
-  <a href="https://facebook.com/nhatlong13" target="blank">
+<!--   <a href="https://facebook.com/nhatlong13" target="blank">
     <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-facebook-social-media-justicon-flat-justicon.png" alt="tranquoclong-facebook"/>
   </a>
   <a href="#" target="blank">
@@ -66,3 +65,4 @@
 <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" alt="tranquoclong-email"/>
   </a>
 </div>
+ -->
